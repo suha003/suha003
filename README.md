@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**suha003/suha003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Suhasini, an M.Sc. Artificial Intelligence student at THWS in Würzburg, Germany, with a B.Tech in Data Science from Mumbai.
+---
 
-Here are some ideas to get you started:
+## About Me
+- 🔭 I’m currently working on cleaning up my GitHub repos and writing better READMEs
+- 🌱 I’m currently learning using Git properly: branches, commits, and pull requests
+- 💬 Ask me about learning German
+- 📫 How to reach me: suhasini.sharma@study.thws.de
+- ⚡ Fun fact: I once spent two hours on a bug that was a single typo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+
+## Connect
+[LinkedIn](https://linkedin.com/in/suhasinisharma)
+[Email](mailto:suhasini.sharma@study.thws.de)
