@@ -5,9 +5,8 @@ I'm Suhasini, an M.Sc. Artificial Intelligence student at THWS in Würzburg, Ger
 
 ## About Me
 - 🔭 I’m currently working on cleaning up my GitHub repos and writing better READMEs
-- 🌱 I’m currently learning using Git properly: branches, commits, and pull requests
+- 🌱 I’m currently learning writing cleaner, better-organized Python code
 - 💬 Ask me about learning German
-- 📫 How to reach me: suhasini.sharma@study.thws.de
 - ⚡ Fun fact: I once spent two hours on a bug that was a single typo.
 
 ## Tech
